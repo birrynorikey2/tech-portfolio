@@ -1,6 +1,6 @@
 ---
-id: projects
-title: Projects
+id: Billy Chau
+title: Java Project
 ---
 
 Embed any notable projects in this page.
